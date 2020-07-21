@@ -12,3 +12,7 @@ https://figshare.com/articles/A_standardized_and_reproducible_method_to_measure_
 
 # Link to project GitHub Page by NMA
 https://github.com/NeuromatchAcademy/course-content/tree/master/projects
+
+# Pipeline for data analysis
+https://docs.google.com/document/d/1jj5rsnI9Kv9qNYREWXow1sq4FDAhp4PQwxNUnMn-TiY/edit
+
