@@ -16,4 +16,5 @@ https://github.com/NeuromatchAcademy/course-content/tree/master/projects
 # Pipeline for data analysis
 https://docs.google.com/document/d/1jj5rsnI9Kv9qNYREWXow1sq4FDAhp4PQwxNUnMn-TiY/edit
 
-# 
+# To-Do List
+https://docs.google.com/document/d/11cQazjfCE9wIzMYzh_S9VZZOsti9ZDwNHjcQiUdt2JE/edit?usp=sharing
