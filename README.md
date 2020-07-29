@@ -18,3 +18,8 @@ https://docs.google.com/document/d/1jj5rsnI9Kv9qNYREWXow1sq4FDAhp4PQwxNUnMn-TiY/
 
 # To-Do List
 https://docs.google.com/document/d/11cQazjfCE9wIzMYzh_S9VZZOsti9ZDwNHjcQiUdt2JE/edit?usp=sharing
+
+Sessions with gaps
+substract the first session time
+comparison of diferent sessions - the cause of the jump in performance between sessions - first derivative of the plot
+
